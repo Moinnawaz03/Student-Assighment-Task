@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Borel", cursive;
+  font-family: "Caveat", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "Dosis", sans-serif;
+  font-family: "Roboto Slab", serif;
+}
+header {
+  /* background-image: url(./image/colored-pencils-colour-pencils-mirroring-color-37539.webp); */
+  margin: 0%;
+  padding: 0%;
+  background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
+  width: 100vw;
+  height: 100vh;
+}
+.container {
+  width: 50vw !important;
+}
+.nav-link {
+  color: aliceblue !important;
+}
+.section-1 {
+  background-color: rgb(45, 43, 43);
+  width: 100vw;
+  color: rgb(255, 255, 255);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* text-align: center; */
+}
